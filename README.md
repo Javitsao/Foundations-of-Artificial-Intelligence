@@ -1,4 +1,5 @@
-# Course Assignments and Final Project
+# Foundations-of-Artificial-Intelligence
+
 
 ## [Homework 1: Search Algorithms for Pacman](https://www.csie.ntu.edu.tw/~stchen/teaching/fai24/hw1/hw1.html)
 
